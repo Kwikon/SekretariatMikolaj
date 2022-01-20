@@ -441,5 +441,10 @@ namespace SekretariatMikolaj
         {
 
         }
+        
+        private void pracownicyOblugiZatwierdzButton_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
