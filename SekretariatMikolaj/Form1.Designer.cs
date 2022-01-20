@@ -925,6 +925,16 @@ namespace SekretariatMikolaj
             this.wczytywanieFormularzaZatwierdz.UseVisualStyleBackColor = true;
             this.wczytywanieFormularzaZatwierdz.Click += new System.EventHandler(this.wczytywanieFormularzaZatwierdz_Click);
             // 
+            // pracownicyOblugiZatwierdzButton
+            // 
+            this.pracownicyOblugiZatwierdzButton.Location = new System.Drawing.Point(402, 646);
+            this.pracownicyOblugiZatwierdzButton.Name = "pracownicyOblugiZatwierdzButton";
+            this.pracownicyOblugiZatwierdzButton.Size = new System.Drawing.Size(99, 39);
+            this.pracownicyOblugiZatwierdzButton.TabIndex = 88;
+            this.pracownicyOblugiZatwierdzButton.Text = "ZATWIERDŹ";
+            this.pracownicyOblugiZatwierdzButton.UseVisualStyleBackColor = true;
+            this.pracownicyOblugiZatwierdzButton.Click += new System.EventHandler(this.pracownicyOblugiZatwierdzButton_Click);
+            // 
             // GodzinaTextBox
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
